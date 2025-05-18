@@ -1,5 +1,5 @@
 // Configuration - REPLACE WITH YOUR GOOGLE SHEET URL
-const SHEET_URL = 'YOUR_PUBLISHED_GOOGLE_SHEET_CSV_URL_HERE';
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/1qOgl37N5uoKZdfOArWj14Q4xSCS0ujQezYHVjI5lBN8/edit?usp=sharing';
 const CACHE_VERSION = 'dashboard-v1';
 const CACHE_NAME = `${CACHE_VERSION}-${new Date().toISOString().split('T')[0]}`;
 
