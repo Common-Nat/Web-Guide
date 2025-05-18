@@ -1,5 +1,5 @@
 // Configuration - REPLACE WITH YOUR GOOGLE SHEET URL
-const SHEET_URL = 'https://docs.google.com/spreadsheets/d/1qOgl37N5uoKZdfOArWj14Q4xSCS0ujQezYHVjI5lBN8/edit?usp=sharing';
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQZzopZ9wRk4Poq4-7gccWana-sk3poO4NS0wZ-3tmBtRxnQ3ujkZjFBdQp3T4fkBo58mqM8cAVjj-k/pub?gid=0&single=true&output=csv';
 const CACHE_VERSION = 'dashboard-v1';
 const CACHE_NAME = `${CACHE_VERSION}-${new Date().toISOString().split('T')[0]}`;
 
